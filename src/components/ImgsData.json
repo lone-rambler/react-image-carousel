@@ -1,0 +1,19 @@
+{
+	"images": [
+		{
+			"id": 0,
+			"src": "images/1.jpg",
+			"alt": "Times Square"
+		},
+		{
+			"id": 1,
+			"src": "images/2.jpg",
+			"alt": "Statue Of Liberty"
+		},
+		{
+			"id": 2,
+			"src": "images/3.jpg",
+			"alt": "Panorama of Manhattan"
+		}
+	]
+}
